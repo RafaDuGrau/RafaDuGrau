@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é rafael
+- 👀 Estou interessado em aprender novas linguagens.
+- 🌱 Meu email de contato é rafael.ortilia@escola.pr.gov.br
+- 💞️ Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
